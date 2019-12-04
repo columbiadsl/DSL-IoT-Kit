@@ -59,18 +59,22 @@ For example, we may start in an 'Idle' state, in which we play a background audi
 
 #### Diagramming the State Machine
 The state machine diagram for this example is shown here:
-![Example](/images/sm_ex.png)
+
+<img src="images/sm_ex.png" width="800">
 
 To implement this example using the provided state machine library, you need to specify the states and their associated actions in one CSV file, and the conditions on which you transition between states in another CSV file. These two files should be named `states.csv` and `transitions.csv`, respectively.
 
 #### states.csv
 Since we have three possible states, `states.csv` is a spreadsheet with three rows:
-![states.csv](/images/states.png)
+
+<img src="images/states.png">
+
 Note: rows and columns can be added to `states.csv` as needed to model additional states and output additional OSC messages.
 
 #### conditions.csv
 Since we only transition states based on whether one of two doors is open, `conditions.csv` only needs a single row, specifying that a `/door` message can come from one of two sources.
-![conditions.csv](/images/conditions.png)
+
+<img src="images/conditions.png">
 
 Note: Rows may be added to `conditions.csv` as needed, but it will always have two columns specifying the message path and the number of possible message sources. 
 
