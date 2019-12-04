@@ -35,7 +35,7 @@ The `gate` example monitors the state of pin digital pin D1 on the NodeMCU, and 
 
 The following image shows how to connect an [A3144](https://www.amazon.com/A3144E-OH3144E-Effect-Sensor-Three-pin/dp/B01M2WASFL) or similar Hall effect sensor to pin D1 with a 10k pullup resistor. This will sense the presence of a magnet when the field is oriented correctly.
 
-![HallGate](/images/hall_gate.jpg)
+<img src="images/hall_gate.jpg" width="400">
 
 ### Device Configuration
 
