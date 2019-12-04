@@ -1,0 +1,4 @@
+idle,/audio/score 1
+retrieval1,/video/object 1,/audio/sfx 1,/audio/voice 1
+retrieval2,/video/object 2,/audio/sfx 1,/audio/voice 2
+exit,/video 1,/audio/score 2
