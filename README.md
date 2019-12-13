@@ -11,7 +11,7 @@ This kit was developed in collaboration with the Columbia University School of t
 
 
 # Where There's Smoke
-The sample code within the kit comes from an immersive theatre meets generative documentary meets escape room project entitled Where There's Smoke. The project had its' world premiere at the Tribeca Film Festival in the Spring of 2019. 
+The sample code within the kit comes from a project entitled "Where There's Smoke." A mix between an immersive theatre experience, a documentary and an escape room the project had its'world premiere at the Tribeca Film Festival in the Spring of 2019. 
 
 <img src="https://www.indiewire.com/wp-content/uploads/2019/05/wheretheresmoke.jpg?resize=800,450">
 
