@@ -1,16 +1,14 @@
-# DSL IoT Kit
+# About
 
 This software kit includes C/C++ code for NodeMCU-based IoT devices for use with the Arduino IDE that can be used to create a range of wireless sensors and displays useful for immersive experience design, as well as Max/MSP example patches and Javascript code that runs within Max to manage custom sensor to audio/video display mapping.
 
 See the README files within the `Devices` and `Max/MSP-StateMachine` directories for detailed information. 
 
-
-# About
-
-This kit was developed in collaboration with the Columbia University School of the Art's Digital Storytelling Lab. 
+This kit was developed in collaboration with the Columbia University School of the Art's <a href="http://digitalstorytellinglab.com">Digital Storytelling Lab.</a> 
 
 
 # Where There's Smoke
+
 The sample code within the kit comes from a project entitled <i>Where There's Smoke.</i> A mix between an immersive theatre experience, a documentary and an escape room, <i>Where There's Smoke</i> had its'world premiere at the Tribeca Film Festival in the Spring of 2019. 
 
 <img src="https://www.indiewire.com/wp-content/uploads/2019/05/wheretheresmoke.jpg?resize=800,450">
